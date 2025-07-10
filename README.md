@@ -20,5 +20,17 @@ Nornal text
 **the Headlin 6 is a final one we can use only 6 # for headline**
 
 # For Italics 
-**Note** : you need to use(_ _) you can write text in between _ 
-or you can use *this is italic* (**) you can write wtext in between *  (make sure there is no space in starting of the text and ending of the text)
+**Note** : you need to use single Underscore (_ _) you can write text in between _ 
+
+or you can use sigle asterisk *this is italic* (**) you can write wtext in between *  
+
+(make sure there is no space in starting of the text and ending of the text)
+(_Example 1_) (*Example 2*)
+
+# Bold
+**Note** : you need to use double Underscore (__ __) you can write text in between double Underscore
+
+or you can use double asterisk (** **) you can write wtext in between souble asterisk  
+
+(make sure there is no space in starting of the text and ending of the text)
+(__Example 1__) (**Example 2**)
