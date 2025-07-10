@@ -39,9 +39,48 @@ or you can use double asterisk (** **) you can write wtext in between souble ast
 # Links
 **Note** : [ ] ( ) there should not be space between square parentheses 
 
-[facebook](https://www.facebook.com)
+[facebook](https://www.facebook.com "facebook")
 
 # Images
 **Note** : ![ ] ( ) there should not be space between square parentheses 
 
-![Albert Einstein](https://github.com/suresh950/git_markdown_learning/blob/main/Albert-Einstein.png)
+![Albert Einstein](https://github.com/suresh950/git_markdown_learning/blob/main/Albert-Einstein.png "Albert Einstein motivational quotes")
+
+
+# Codes
+
+checkout the code for code
+Use `for` loop 
+
+Chechout the code for code
+```javascript
+
+var name = "Suresh"
+console.log(name)
+
+```
+
+# Table
+
+|column 1|column 2|column 3|
+|--- |--- |--- |
+|one|Two|three
+
+
+
+
+# code again
+>Keep smilling and work 
+
+
+# List
+
+1. one
+   1. item one
+   2. item two
+2. two
+   - item one
+3. three
+4. Four
+
+___
